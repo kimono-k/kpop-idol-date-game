@@ -1,4 +1,4 @@
-![instructions](https://user-images.githubusercontent.com/34915099/120686844-b592af00-c4a1-11eb-85c0-48f3f286afd8.png)
+![instructions](https://user-images.githubusercontent.com/34915099/120686976-d78c3180-c4a1-11eb-944c-e055320f30a9.png)
 
 # kpop-idol-date-game
 Do you have what it takes to go on a date with a k-pop idol?
