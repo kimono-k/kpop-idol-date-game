@@ -1,6 +1,6 @@
 ![instructions](https://user-images.githubusercontent.com/34915099/120686976-d78c3180-c4a1-11eb-944c-e055320f30a9.png)
 
-# kpop-idol-date-game
+# K-pop Idol Date Game
 Do you have what it takes to go on a date with a k-pop idol?
 Welcome to your new adventure! The elder gods have sent you to a very important quest."
 You will date a k-pop idol (he / she is waiting for you), but the grizzly bear is out there to kill your dreams!
