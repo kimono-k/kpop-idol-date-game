@@ -7,9 +7,10 @@ You will date a k-pop idol (he / she is waiting for you), but the grizzly bear i
 Your mission is to avoid the grizzly bear so you can go on a date with your husband / wife)
 
 # How to play
-1. Install Python on your computer
-2. Open the Python terminal
-3. In your terminal type: cd
-4. Make sure you leave a space after cd
-5. Drag the main.py file into the terminal
-6. Hit enter and you can play the game.
+1. Install Python on your computer.
+2. Download this repo for main.py file.
+3. Open the Python terminal.
+4. In your terminal type: cd.
+5. Make sure you leave a space after cd.
+6. Drag the main.py file into the terminal
+7. Hit enter and you can play the game.
