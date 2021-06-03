@@ -36,7 +36,7 @@ time.sleep(2)
 print(f"All of a sudden you woke up in this weird forest."
       f" You just heard a strange sound from your right ear.\n")
 
-decision_left_or_right = input("Which path will you take to get out of here? Left or right")
+decision_left_or_right = input("Which path will you take to get out of here? Left or right\n")
 
 if decision_left_or_right.lower() == "left":
       print(f"Phew! You got out of there\n")
@@ -72,7 +72,7 @@ if decision_left_or_right.lower() == "left":
       print(f"You have arrived at SM Entertainment to pick up your date.\n"
             f"There are 3 doors in front of you.")
 
-      final_decision = input("Which door will you open? Pick red, blue or yellow")
+      final_decision = input("Which door will you open? Pick red, blue or yellow\n")
 
       if final_decision.lower() == "red":
             print(f"What the heck?! A panda bear?")
@@ -99,7 +99,7 @@ if decision_left_or_right.lower() == "left":
             time.sleep(3)
             print(f"Irene liked her first date with you {name}. She wants to date again!")
             print("You have completed the game!")
-            time.sleep(1)
+            time.sleep(4.5)
             webbrowser.open_new('https://www.youtube.com/watch?v=Iuh6nUFM-cs')
             print(f"Developed by Kimono きもの")
 
