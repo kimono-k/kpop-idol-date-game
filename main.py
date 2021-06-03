@@ -50,12 +50,14 @@ if decision_left_or_right.lower() == "left":
 
       if swim_or_wait.lower() == "swim":
             print(f"You made it! Good job! But your clothes are soaking wet now.")
+
       elif swim_or_wait.lower() == "wait":
             print(f"The heck is that?!")
             time.sleep(2)
             print(f"Aaaahhhhh!!!")
             print(f"Game over!")
             print("Run this file again if you want to play this game again!")
+
       else:
             print(f"The Elder Gods have sent you to hell.")
             print(f"Game over!")
