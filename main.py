@@ -46,7 +46,7 @@ if decision_left_or_right.lower() == "left":
       print(f"I guess there's nothing I have to worry about. I have to go to my date. I still look like a mess T_T")
       print(f"Alright, now what shall I do? If I'm going to swim my clothes are going to be messed up for the date.")
 
-      swim_or_wait = input("Swim or wait?")
+      swim_or_wait = input(f"Swim or wait?\n")
 
       if swim_or_wait.lower() == "swim":
             print(f"You made it! Good job! But your clothes are soaking wet now.")
@@ -55,9 +55,11 @@ if decision_left_or_right.lower() == "left":
             time.sleep(2)
             print(f"Aaaahhhhh!!!")
             print(f"Game over!")
+            print("Run this file again if you want to play this game again!")
       else:
             print(f"The Elder Gods have sent you to hell.")
             print(f"Game over!")
+            print("Run this file again if you want to play this game again!")
 
       print(f"You finally made out of this weird forest. Now you are in some futuristic city.")
       time.sleep(3)
@@ -76,6 +78,7 @@ if decision_left_or_right.lower() == "left":
             print(f"Aaaahhhhh!!!")
             time.sleep(2)
             print(f"Game over!")
+            print("Run this file again if you want to play this game again!")
 
       elif final_decision.lower() == "blue":
             print(f"So we finally meet hooman!")
@@ -85,23 +88,32 @@ if decision_left_or_right.lower() == "left":
             print(f"Aaaahhhhh!!!")
             time.sleep(2)
             print(f"Game over!")
+            print("Run this file again if you want to play this game again!")
 
       elif final_decision.lower() == "yellow":
             print(f"You made it to your date with Irene")
             time.sleep(2)
             print(f"You are eating with Irene now and she wants to be your girlfriend")
-            time.sleep(5)
+            time.sleep(3)
             print(f"Irene liked her first date with you {name}. She wants to date again!")
             print("You have completed the game!")
+            time.sleep(1)
             webbrowser.open_new('https://www.youtube.com/watch?v=Iuh6nUFM-cs')
             print(f"Developed by Kimono きもの")
 
       else:
             print(f"The Elder Gods have sent you to hell.")
             print(f"Game over!")
+            print("Run this file again if you want to play this game again!")
 
 elif decision_left_or_right.lower() == "right":
       print(f"Crap!!! It's a Grizzly Bear!!")
       time.sleep(2)
       print(f"Aaaahhhhh!!!")
       print(f"Game over. {name} won't go on a date with a k-pop idol. Better luck next time ;)")
+      print("Run this file again if you want to play this game again!")
+
+else:
+      print(f"The Elder Gods have sent you to hell.")
+      print(f"Game over!")
+      print("Run this file again if you want to play this game again!")
