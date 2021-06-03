@@ -1,3 +1,5 @@
+![instructions](https://user-images.githubusercontent.com/34915099/120686844-b592af00-c4a1-11eb-85c0-48f3f286afd8.png)
+
 # kpop-idol-date-game
 Do you have what it takes to go on a date with a k-pop idol?
 Welcome to your new adventure! The elder gods have sent you to a very important quest."
@@ -9,6 +11,3 @@ Your mission is to avoid the grizzly bear so you can go on a date with your husb
 2. Open the Python terminal
 3. In your terminal type: cd <!-- Here you drag the main.py file -->
 4. Hit enter and you can play the game.
-
-# Screenshot of the game
-
