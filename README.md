@@ -6,6 +6,8 @@ Welcome to your new adventure! The elder gods have sent you to a very important 
 You will date a k-pop idol (he / she is waiting for you), but the grizzly bear is out there to kill your dreams!
 Your mission is to avoid the grizzly bear so you can go on a date with your husband / wife)
 
+![image](https://user-images.githubusercontent.com/34915099/120688592-841ae300-c4a3-11eb-9922-0065126f92bc.png)
+
 # How to play
 1. Install Python on your computer.
 2. Download this repo for main.py file.
